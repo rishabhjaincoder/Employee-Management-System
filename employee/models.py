@@ -17,4 +17,3 @@ class Employee(models.Model):
 	date_of_leaving = models.DateField(null = False,blank=False)
 	salary = models.CharField(max_length=10,null = False,blank=False)
 	user = models.OneToOneField(User, on_delete=models.CASCADE)
-

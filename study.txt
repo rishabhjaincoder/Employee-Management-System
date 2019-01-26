@@ -1,0 +1,20 @@
+Employee Table (we have to make this)
+    - Id
+    - Phone number
+    - Address
+    - Date of joining
+    - Date of leaving
+    - is_working
+    - Salary
+    - DOB
+    - Photo
+    - Age
+    - Department
+    - is_married
+
+User (existing)
+    - First Name
+    - Last name
+    - Email
+    - username
+    - password
